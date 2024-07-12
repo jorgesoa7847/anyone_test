@@ -1,1 +1,1 @@
-hola, este es un archivo creado por Marcos y modificado por Pedro
+hola, este es un archivo creado por Marcos y modificado por Pedro, seguido por Jorge.
